@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>3 Card Lock Poker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>3 Card Lock Poker</h1>
+    <nav>
+      <a href="#how">How to Play</a>
+      <a href="#strategy">Strategy Tips</a>
+      <a href="#faq">FAQ</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <h2>The Ultimate Poker Twist</h2>
+    <p>A new strategic poker variant where your hidden Lock Card can change everything.</p>
+  </section>
+
+  <section id="how">
+    <h2>How to Play</h2>
+    <ol>
+      <li>Each player is dealt 3 cards.</li>
+      <li>Choose 1 to be your hidden Lock Card (must be used).</li>
+      <li>You may swap 1 Flexi Card (once total).</li>
+      <li>Three community cards are revealed (Flop).</li>
+      <li>Optional Flexi Card swap again (if not done already).</li>
+      <li>Final 2 community cards revealed (Turn & River).</li>
+      <li>Betting happens throughout, like Texas Hold’em.</li>
+      <li>Pay to reveal someone’s Lock Card if desired.</li>
+      <li>Best hand using Lock + 1 Flexi + 3 community wins!</li>
+    </ol>
+  </section>
+
+  <section id="strategy">
+    <h2>Strategy Tips</h2>
+    <ul>
+      <li>Use the Lock Card wisely — it locks your potential.</li>
+      <li>Swapping can save you, but don’t waste it early.</li>
+      <li>Paying to reveal a Lock Card is powerful late-game.</li>
+      <li>Bluffing with a bad-looking Flexi hand can work!</li>
+    </ul>
+  </section>
+
+  <section id="faq">
+    <h2>Frequently Asked Questions</h2>
+    <h4>Do I have to use my Lock Card?</h4>
+    <p>Yes. Your Lock Card must be part of your final 5-card hand.</p>
+
+    <h4>Can I swap more than one Flexi card?</h4>
+    <p>No. You may only swap **one** Flexi card during the whole hand (before or after the flop).</p>
+
+    <h4>How much does it cost to reveal a Lock Card?</h4>
+    <p>House rules apply, but we suggest 2x the Big Blind into the pot.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact & Feedback</h2>
+    <p>Have feedback or want to run a tournament? Reach us at <a href="mailto:3cardlockpoker@gmail.com">3cardlockpoker@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 3 Card Lock. All rights reserved.</p>
+  </footer>
+</body>
+</html>
